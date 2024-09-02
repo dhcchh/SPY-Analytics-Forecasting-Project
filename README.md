@@ -6,3 +6,4 @@
 - 2 : Using various Machine Learning and Time-Series algorithms, predict the returns of SPY in the future.
 
 - **More to be added as I decide what to do**
+- Project Website : https://www.notion.so/chan-dinghao/Chan-Ding-Hao-s-Portfolio-c746e97fff5541c3819ecec579403403?p=7e6f10bafb9640c9bb8706fe32cd0ba0&pm=c
