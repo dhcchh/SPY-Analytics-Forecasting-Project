@@ -6,7 +6,8 @@
 - Part 2 : Predicting the returns of SPY in the future using various ML and Time-Series methods.
 
 # Insights Derived. 
-## Part 1.1
+## Part 1.1 [Full Analysis](https://chan-dinghao.notion.site/Part-1-1-Yielding-Significant-Returns-10120b01262d4acf88637f0bc6bd3c03?pvs=4)
+- Key Metrics Considered: Return on Investment, absolute amount and percentage. 
 - You will not save enough to comfortably retire solely relying on interest rates from saving accounts.
 - The investor does not need any investing knowledge, they just need to open a brokerage account and purchase SPY.
 - The investor must be patient. They may not see returns in the short runs, but they will definitely see returns in the long run.
