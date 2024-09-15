@@ -1,8 +1,16 @@
 # Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
 
 **Table of contents**
-- 1.1: Analysing the performance of an index fund like SPY compared to a traditional savings account.
-- 1.2: Analysing the power of ETFs like SPY as a hedge against inflation.
-- 2 : Predicting the returns of SPY in the future using various ML and Time-Series methods.
+- Part 1.1: Analysing the performance of an index fund like SPY compared to a traditional savings account.
+- Part 1.2: Analysing the power of ETFs like SPY as a hedge against inflation.
+- Part 2 : Predicting the returns of SPY in the future using various ML and Time-Series methods.
 
-
+# Insights Derived. 
+## Part 1.1
+- You will not save enough to comfortably retire solely relying on interest rates from saving accounts.
+- The investor does not need any investing knowledge, they just need to open a brokerage account and purchase SPY.
+- The investor must be patient. They may not see returns in the short runs, but they will definitely see returns in the long run.
+- The investor must on average, contribute a decent amount (I would say US$1000 monthly) in order to see significant returns.
+## Part 1.2
+- 
+## Part 2
