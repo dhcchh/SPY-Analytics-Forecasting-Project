@@ -11,10 +11,12 @@ Key Metrics Considered:
 - Nominal ROI. How much your investment in SPY yielded based on your initial investments.
 ## Part 1.1 
 [Read the Full Analysis here](https://chan-dinghao.notion.site/Part-1-1-Yielding-Significant-Returns-10120b01262d4acf88637f0bc6bd3c03?pvs=4)
+### Key Insights Derived:
 - You will not save enough to comfortably retire solely relying on interest rates from saving accounts.
 - The investor does not need any investing knowledge, they just need to open a brokerage account and purchase SPY.
 - The investor must be patient. They may not see returns in the short runs, but they will definitely see returns in the long run.
 - The investor must on average, contribute a decent amount (I would say US$1000 monthly) in order to see significant returns.
 ## Part 1.2
-- 
+** Under Development**
 ## Part 2
+** Under Development**
