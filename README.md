@@ -13,7 +13,7 @@ The project is structured into three distinct parts:
    In this section, we evaluate SPY's ability to act as a hedge against inflation. With rising concerns about inflation in today's economic landscape, we explore how SPY performs during inflationary periods and whether it provides protection for investors' purchasing power.
 
 3. **Price Prediction Using Machine Learning**: 
-   The final part of the project leverages machine learning models, including an ensemble of LSTM (Long Short-Term Memory) and Prophet models, to forecast SPY's future price. This section combines time-series modeling with advanced machine learning techniques to offer insights into the future trajectory of SPY.
+   The final part of the project leverages machine learning models to forecast SPY's future price. This section combines time-series modeling with advanced machine learning techniques to offer insights into the future trajectory of SPY.
 
 This repository contains the code and models used in the project to demonstrate the power of investing in SPY, its role as a hedge, and its potential future outlook.
 
