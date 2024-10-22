@@ -15,9 +15,9 @@ The project is structured into three distinct parts:
 3. **Price Prediction Using Machine Learning**: 
    The final part of the project leverages machine learning models to forecast SPY's future price. This section combines time-series modeling with advanced machine learning techniques to offer insights into the future trajectory of SPY.
 
-This repository contains the code and models used in the project to demonstrate the power of investing in SPY, its role as a hedge, and its potential future outlook.
+This repository contains the code and models used in the project to demonstrate the power of investing in SPY, and its potential future outlook.
 
-If you are interested in reading more about the project, [I publish a blog on my website](https://www.notion.so/chan-dinghao/Investment-Analytics-Highlighting-the-Value-of-Stock-Market-Investments-for-Long-Term-Growth-7e6f10bafb9640c9bb8706fe32cd0ba0)
+If you are interested in reading more about the project, [I published a blog on my website](https://www.notion.so/chan-dinghao/Investment-Analytics-Highlighting-the-Value-of-Stock-Market-Investments-for-Long-Term-Growth-7e6f10bafb9640c9bb8706fe32cd0ba0) that goes into deep detail about the inspiration anad analysis for the project.
 
 **Table of contents**
 - Part 1.1: Analysing the performance of an index fund like SPY compared to a traditional savings account.
