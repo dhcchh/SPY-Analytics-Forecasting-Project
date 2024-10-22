@@ -25,9 +25,9 @@ If you are interested in reading more about the project, [I published a blog on 
 - Part 2 : Predicting the returns of SPY in the future using various ML and Time-Series methods.
 
 # Insights Derived. 
-Key Metrics Considered: 
+Key Metrics Considered (Currencies are in USD) :
 - Nominal ROI. How much your investment in SPY yielded based on your initial investments.
-- Real ROI. How much your investment in SPY yielded (USD) based on your initial investments, adjusted for inflation.
+- Real ROI. How much your investment in SPY yielded based on your initial investments, adjusted for inflation.
 ## Part 1.1 
 [Part 1 Analysis](https://chan-dinghao.notion.site/Part-1-1-Yielding-Significant-Returns-10120b01262d4acf88637f0bc6bd3c03?pvs=4)
 ### Key Insights Derived:
