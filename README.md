@@ -37,6 +37,8 @@ Key Metrics Considered (Currencies are in USD) :
 - The investor must be patient. They may not see returns in the short runs, but they will definitely see  returns in the long run.
 - In my opinion, the investor must contribute US$1000 monthly in order to see significant returns.
 ## Part 1.2
-** Under Development**
+[Part 1.2 Analysis](https://chan-dinghao.notion.site/Part-1-2-Hedging-Against-Inflation-624736b7e8c6406aa239529ce2ed8d4c?pvs=74)
+- You will lose about 40-45% of your purchasing power when not accounting for inflation saving money in a low yield savings account.
+- Investing a significant amount in SPY can still allow your net worth to grow despite inflation. The growth rate of SPY effectively outpaces the inflation rate.
 ## Part 2
 ** Under Development**
