@@ -97,8 +97,7 @@ def forecast_with_ci(model, initial_sequence, steps, num_simulations=100, ci=0.9
     lower_log_returns = mean_log_returns - z_value * std_log_returns
     upper_log_returns = mean_log_returns + z_value * std_log_returns
 
-    return mean_log_returns, lower_log_returns, upper_log_returns
-
+    return mean_log_returns, lower_log_returns, upper_log_returns, forecasted_simulations
     
 # Convert log returns to prices
 def log_returns_to_prices(log_returns, initial_price):
