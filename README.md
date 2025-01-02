@@ -1,5 +1,35 @@
 # Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
 
+## Project Directory Structure
+
+SPY-Analytics-Forecasting-Project/
+├── Data/
+│   └── cpi.csv 
+│   └── spy_full.csv 
+│   └── spy_month.csv
+│   └── spy_week.csv
+├── Forecasts/
+│   └── lstm_forecast.csv
+│   └── montecarlo_forecast.csv 
+│   └── prophet_forecast.csv 
+├── ML-Notebooks 
+│   └── Final-Calculations.ipynb 
+│   └── LSTM_helper.py
+│   └── ML-ARIMA-forecast.ipynb
+│   └── ML-LSTM.ipynb
+│   └── ML-Prophet-LogReturn.ipynb
+│   └── ML-Prophet-Price.ipynb
+│   └── ML-XGB-FODP.ipynb
+│   └── ML-XGB-LR.ipynb
+│   └── Monte-Carlo.ipynb
+│   └── Regression-Baseline.ipynb
+├── Notebooks-Analysis 
+│   └── analysis_nominal.ipynb
+│   └── analysis_real.ipynb
+├── .gitignore
+├── README.md
+
+
 ### **Introduction**
 
 This project explores the power and potential of investing in the S&P 500 ETF (SPY), one of the most widely held and traded ETFs that tracks the performance of the S&P 500 index. By analyzing historical returns, evaluating its effectiveness as a hedge against inflation, and applying machine learning models to predict its future price, the project offers a comprehensive view of SPY's investment potential in different market conditions.
