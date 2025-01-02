@@ -1,7 +1,6 @@
 # Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
 
 ## Project Directory Structure
-
 - **SPY-Analytics-Forecasting-Project/**
   - **Data/**
     - `cpi.csv`
