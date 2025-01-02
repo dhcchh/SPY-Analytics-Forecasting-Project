@@ -67,5 +67,31 @@ Key Metrics Considered (Currencies are in USD) :
 [Part 1.2 Analysis](https://chan-dinghao.notion.site/Part-1-2-Hedging-Against-Inflation-624736b7e8c6406aa239529ce2ed8d4c?pvs=74)
 - You will lose about 40-45% of your purchasing power when not accounting for inflation saving money in a low yield savings account.
 - Investing a significant amount in SPY can still allow your net worth to grow despite inflation. The growth rate of SPY effectively outpaces the inflation rate.
-## Part 2
-** Under Development**
+  
+## Part 2: Future Returns Forecasting
+For those who have not yet started investing, the question often arises: *Is it too late to begin?* In this section, we aim to address this by leveraging machine learning to forecast the potential future prices of SPY over the next 20 years. By analyzing historical trends and incorporating advanced predictive models, we provide insights into the long-term growth prospects of SPY, offering a data-driven perspective on why starting today could still lead to significant financial growth in the future.
+
+### Key Highlights
+
+1. **Forecasting Models**:
+   - **Monte Carlo Simulation**: Captures a range of potential outcomes based on historical data and random sampling.
+   - **Prophet**: Utilized for time series forecasting to predict SPY prices within confidence intervals.
+   - **LSTM (Long Short-Term Memory)**: A deep learning model trained to predict future SPY prices based on past trends.
+
+2. **Final Results**:
+   - We take the average of all mean predictions, resulting in a forecasted price of SPY in 2044 at **US$ 2507.39**.
+   - This suggests SPY could grow approximately **5 times** in the next 20 years.
+
+3. **Benchmarks**:
+   - The forecasted value aligns with polynomial growth models, which predict SPY prices ranging from **US$ 1747** to **US$ 5368**.
+   - While the prediction falls short of a hypothetical 6x growth rate, it is consistent with the historical annualized return of SPY (~10% yearly).
+
+4. **Investor Takeaway**:
+   - Predicting future SPY prices serves as a **gauge of potential trends**, not a definitive forecast.
+   - Despite uncertainties, the analysis reinforces SPY's long-term growth potential, making it an attractive option for patient investors.
+
+### Important Note
+
+Predicting financial markets is inherently uncertain. Factors such as macroeconomic conditions, geopolitical events, and investor sentiment, which are difficult to capture in historical data, play a significant role in shaping market outcomes. As such, these forecasts should be interpreted as tools for insight rather than guarantees of future performance.
+
+If you are only interested in the results, feel free to skip directly to the **Final Results Section** above for a summary of key findings.
