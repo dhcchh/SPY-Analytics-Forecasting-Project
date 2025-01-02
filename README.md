@@ -69,6 +69,7 @@ Key Metrics Considered (Currencies are in USD) :
 - Investing a significant amount in SPY can still allow your net worth to grow despite inflation. The growth rate of SPY effectively outpaces the inflation rate.
   
 ## Part 2: Future Returns Forecasting
+[Part 2 Forecasting](https://chan-dinghao.notion.site/Part-2-Predicting-Future-Returns-14528ad3155f800db3b5e9f9739176a4?pvs=4)
 For those who have not yet started investing, the question often arises: *Is it too late to begin?* In this section, we aim to address this by leveraging machine learning to forecast the potential future prices of SPY over the next 20 years. By analyzing historical trends and incorporating advanced predictive models, we provide insights into the long-term growth prospects of SPY, offering a data-driven perspective on why starting today could still lead to significant financial growth in the future.
 
 ### Key Highlights
