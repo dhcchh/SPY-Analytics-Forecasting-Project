@@ -30,7 +30,6 @@ Key Metrics Considered (Currencies are in USD) :
 - Real ROI. How much your investment in SPY yielded based on your initial investments, adjusted for inflation.
 ## Part 1.1 
 [Part 1 Analysis](https://chan-dinghao.notion.site/Part-1-1-Yielding-Significant-Returns-10120b01262d4acf88637f0bc6bd3c03?pvs=4)
-### Key Insights Derived:
 - Consider only nominal ROI.  
 - You will not save enough to comfortably retire solely relying on interest rates from saving accounts.
 - The investor does not need any investing knowledge, they just need to open a brokerage account and purchase SPY.
