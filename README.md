@@ -2,33 +2,32 @@
 
 ## Project Directory Structure
 
-SPY-Analytics-Forecasting-Project/
-├── Data/
-│   └── cpi.csv 
-│   └── spy_full.csv 
-│   └── spy_month.csv
-│   └── spy_week.csv
-├── Forecasts/
-│   └── lstm_forecast.csv
-│   └── montecarlo_forecast.csv 
-│   └── prophet_forecast.csv 
-├── ML-Notebooks 
-│   └── Final-Calculations.ipynb 
-│   └── LSTM_helper.py
-│   └── ML-ARIMA-forecast.ipynb
-│   └── ML-LSTM.ipynb
-│   └── ML-Prophet-LogReturn.ipynb
-│   └── ML-Prophet-Price.ipynb
-│   └── ML-XGB-FODP.ipynb
-│   └── ML-XGB-LR.ipynb
-│   └── Monte-Carlo.ipynb
-│   └── Regression-Baseline.ipynb
-├── Notebooks-Analysis 
-│   └── analysis_nominal.ipynb
-│   └── analysis_real.ipynb
-├── .gitignore
-├── README.md
-
+- **SPY-Analytics-Forecasting-Project/**
+  - **Data/**
+    - `cpi.csv`
+    - `spy_full.csv`
+    - `spy_month.csv`
+    - `spy_week.csv`
+  - **Forecasts/**
+    - `lstm_forecast.csv`
+    - `montecarlo_forecast.csv`
+    - `prophet_forecast.csv`
+  - **ML-Notebooks/**
+    - `Final-Calculations.ipynb`
+    - `LSTM_helper.py`
+    - `ML-ARIMA-forecast.ipynb`
+    - `ML-LSTM.ipynb`
+    - `ML-Prophet-LogReturn.ipynb`
+    - `ML-Prophet-Price.ipynb`
+    - `ML-XGB-FODP.ipynb`
+    - `ML-XGB-LR.ipynb`
+    - `Monte-Carlo.ipynb`
+    - `Regression-Baseline.ipynb`
+  - **Notebooks-Analysis/**
+    - `analysis_nominal.ipynb`
+    - `analysis_real.ipynb`
+  - `.gitignore`
+  - `README.md`
 
 ### **Introduction**
 
